@@ -4,7 +4,7 @@ public class HelloDevOpsWorld {
 
 	public static void main(String[] args) {
 
-		System.out.println("Hellow DevOps World once again!!!");
+		System.out.println("Hellow DevOps World!!!");
 		
 	}
 
